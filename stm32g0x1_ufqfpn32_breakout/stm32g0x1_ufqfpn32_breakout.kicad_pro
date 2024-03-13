@@ -430,7 +430,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "stm32g0x1_lqfp32_breakout.kicad_pro",
+    "filename": "stm32g0x1_ufqfpn32_breakout.kicad_pro",
     "version": 1
   },
   "net_settings": {

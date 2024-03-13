@@ -1213,7 +1213,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "STMicroelectronics Arm Cortex-M0+ MCU, 64KB flash, 36KB RAM, 64 MHz, 1.7-3.6V, 30 GPIO, LQFP32"
+			(property "Description" "STMicroelectronics Arm Cortex-M0+ MCU, 64KB flash, 36KB RAM, 64 MHz, 1.7-3.6V, 30 GPIO, ufqfpn32"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4133,7 +4133,7 @@
 			(uuid "4a2f4d83-1b7e-403e-b373-f7169b073341")
 		)
 		(instances
-			(project "stm32g0x1_lqfp32_breakout"
+			(project "stm32g0x1_ufqfpn32_breakout"
 				(path "/e24c852a-cff5-4cdd-9be2-37b7c843a0ae"
 					(reference "#PWR07")
 					(unit 1)
@@ -4188,7 +4188,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "STMicroelectronics Arm Cortex-M0+ MCU, 64KB flash, 36KB RAM, 64 MHz, 1.7-3.6V, 30 GPIO, LQFP32"
+		(property "Description" "STMicroelectronics Arm Cortex-M0+ MCU, 64KB flash, 36KB RAM, 64 MHz, 1.7-3.6V, 30 GPIO, ufqfpn32"
 			(at 91.44 88.9 0)
 			(effects
 				(font
@@ -4294,7 +4294,7 @@
 			(uuid "d41149af-fdb9-4aac-b179-2c4a23cec2fb")
 		)
 		(instances
-			(project "stm32g0x1_lqfp32_breakout"
+			(project "stm32g0x1_ufqfpn32_breakout"
 				(path "/e24c852a-cff5-4cdd-9be2-37b7c843a0ae"
 					(reference "U1")
 					(unit 1)
@@ -4398,7 +4398,7 @@
 			(uuid "82a9fd05-f655-465b-8610-e824b05ab6db")
 		)
 		(instances
-			(project "stm32g0x1_lqfp32_breakout"
+			(project "stm32g0x1_ufqfpn32_breakout"
 				(path "/e24c852a-cff5-4cdd-9be2-37b7c843a0ae"
 					(reference "J3")
 					(unit 1)
@@ -4465,7 +4465,7 @@
 			(uuid "f2e3d801-771d-4cdf-aa49-93de99c852e2")
 		)
 		(instances
-			(project "stm32g0x1_lqfp32_breakout"
+			(project "stm32g0x1_ufqfpn32_breakout"
 				(path "/e24c852a-cff5-4cdd-9be2-37b7c843a0ae"
 					(reference "#PWR09")
 					(unit 1)
@@ -4531,7 +4531,7 @@
 			(uuid "18668320-a256-4e37-a27f-4d0a8a0db988")
 		)
 		(instances
-			(project "stm32g0x1_lqfp32_breakout"
+			(project "stm32g0x1_ufqfpn32_breakout"
 				(path "/e24c852a-cff5-4cdd-9be2-37b7c843a0ae"
 					(reference "#PWR05")
 					(unit 1)
@@ -4601,7 +4601,7 @@
 			(uuid "9633f179-a7e7-4786-ace6-5ee733d7f7d7")
 		)
 		(instances
-			(project "stm32g0x1_lqfp32_breakout"
+			(project "stm32g0x1_ufqfpn32_breakout"
 				(path "/e24c852a-cff5-4cdd-9be2-37b7c843a0ae"
 					(reference "C1")
 					(unit 1)
@@ -4712,7 +4712,7 @@
 			(uuid "a385888a-f535-4f10-8148-5729263e717a")
 		)
 		(instances
-			(project "stm32g0x1_lqfp32_breakout"
+			(project "stm32g0x1_ufqfpn32_breakout"
 				(path "/e24c852a-cff5-4cdd-9be2-37b7c843a0ae"
 					(reference "J1")
 					(unit 1)
@@ -4824,7 +4824,7 @@
 			(uuid "2c8f1af9-e039-43e0-83ef-b32f3d849500")
 		)
 		(instances
-			(project "stm32g0x1_lqfp32_breakout"
+			(project "stm32g0x1_ufqfpn32_breakout"
 				(path "/e24c852a-cff5-4cdd-9be2-37b7c843a0ae"
 					(reference "J2")
 					(unit 1)
@@ -4890,7 +4890,7 @@
 			(uuid "2fcc414d-3d6e-4418-b1d8-c56ef4abf385")
 		)
 		(instances
-			(project "stm32g0x1_lqfp32_breakout"
+			(project "stm32g0x1_ufqfpn32_breakout"
 				(path "/e24c852a-cff5-4cdd-9be2-37b7c843a0ae"
 					(reference "#PWR02")
 					(unit 1)
@@ -4960,7 +4960,7 @@
 			(uuid "fa6954e6-c84a-4a85-9465-c23edc400ed4")
 		)
 		(instances
-			(project "stm32g0x1_lqfp32_breakout"
+			(project "stm32g0x1_ufqfpn32_breakout"
 				(path "/e24c852a-cff5-4cdd-9be2-37b7c843a0ae"
 					(reference "C2")
 					(unit 1)
@@ -5026,7 +5026,7 @@
 			(uuid "d51ce0a2-2fab-469d-b11d-90d1f4f7b493")
 		)
 		(instances
-			(project "stm32g0x1_lqfp32_breakout"
+			(project "stm32g0x1_ufqfpn32_breakout"
 				(path "/e24c852a-cff5-4cdd-9be2-37b7c843a0ae"
 					(reference "#PWR06")
 					(unit 1)
@@ -5093,7 +5093,7 @@
 			(uuid "86fe3891-e53b-420c-8eba-13584c411430")
 		)
 		(instances
-			(project "stm32g0x1_lqfp32_breakout"
+			(project "stm32g0x1_ufqfpn32_breakout"
 				(path "/e24c852a-cff5-4cdd-9be2-37b7c843a0ae"
 					(reference "#PWR08")
 					(unit 1)
@@ -5161,7 +5161,7 @@
 			(uuid "1a53b689-aba3-4d9b-8f79-757b567a5fe8")
 		)
 		(instances
-			(project "stm32g0x1_lqfp32_breakout"
+			(project "stm32g0x1_ufqfpn32_breakout"
 				(path "/e24c852a-cff5-4cdd-9be2-37b7c843a0ae"
 					(reference "C3")
 					(unit 1)
@@ -5229,7 +5229,7 @@
 			(uuid "eb44e803-2a75-4890-a71e-98f6018c6e02")
 		)
 		(instances
-			(project "stm32g0x1_lqfp32_breakout"
+			(project "stm32g0x1_ufqfpn32_breakout"
 				(path "/e24c852a-cff5-4cdd-9be2-37b7c843a0ae"
 					(reference "SW1")
 					(unit 1)
@@ -5295,7 +5295,7 @@
 			(uuid "9fcf1b05-9922-4faa-918c-09b5fdd2b3cc")
 		)
 		(instances
-			(project "stm32g0x1_lqfp32_breakout"
+			(project "stm32g0x1_ufqfpn32_breakout"
 				(path "/e24c852a-cff5-4cdd-9be2-37b7c843a0ae"
 					(reference "#PWR03")
 					(unit 1)
@@ -5361,7 +5361,7 @@
 			(uuid "175dd658-a92c-406b-b539-d0fe1fd395b3")
 		)
 		(instances
-			(project "stm32g0x1_lqfp32_breakout"
+			(project "stm32g0x1_ufqfpn32_breakout"
 				(path "/e24c852a-cff5-4cdd-9be2-37b7c843a0ae"
 					(reference "#PWR01")
 					(unit 1)
@@ -5428,7 +5428,7 @@
 			(uuid "96f04b33-5907-433c-889c-46eed9cd3537")
 		)
 		(instances
-			(project "stm32g0x1_lqfp32_breakout"
+			(project "stm32g0x1_ufqfpn32_breakout"
 				(path "/e24c852a-cff5-4cdd-9be2-37b7c843a0ae"
 					(reference "#PWR04")
 					(unit 1)

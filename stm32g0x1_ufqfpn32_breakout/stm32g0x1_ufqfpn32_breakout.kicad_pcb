@@ -202,7 +202,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/deab2267-86ae-4f6e-bec6-984388ce829c")
 		(sheetname "Root")
-		(sheetfile "stm32g0x1_lqfp32_breakout.kicad_sch")
+		(sheetfile "stm32g0x1_ufqfpn32_breakout.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 -1.33)
@@ -709,7 +709,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/c547d8d7-1470-449a-9103-880442c8a76b")
 		(sheetname "Root")
-		(sheetfile "stm32g0x1_lqfp32_breakout.kicad_sch")
+		(sheetfile "stm32g0x1_ufqfpn32_breakout.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 -1.33)
@@ -1200,7 +1200,7 @@
 				)
 			)
 		)
-		(property "Description" "STMicroelectronics Arm Cortex-M0+ MCU, 128KB flash, 36KB RAM, 64 MHz, 1.7-3.6V, 44 GPIO, lqfp32"
+		(property "Description" "STMicroelectronics Arm Cortex-M0+ MCU, 128KB flash, 36KB RAM, 64 MHz, 1.7-3.6V, 44 GPIO, ufqfpn32"
 			(at 0 0 -45)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1215,7 +1215,7 @@
 		(property ki_fp_filters "LQFP*7x7mm*P0.5mm*")
 		(path "/86614d5f-0173-4c21-be46-0bcde743b26d")
 		(sheetname "Root")
-		(sheetfile "stm32g0x1_lqfp32_breakout.kicad_sch")
+		(sheetfile "stm32g0x1_ufqfpn32_breakout.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.61 3.61)
@@ -2169,7 +2169,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/2286c1b8-73a9-4044-bb4e-8ed9217553c5")
 		(sheetname "Root")
-		(sheetfile "stm32g0x1_lqfp32_breakout.kicad_sch")
+		(sheetfile "stm32g0x1_ufqfpn32_breakout.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -2634,7 +2634,7 @@
 		)
 		(path "/d012b0cd-3536-4881-b9ae-8c0ad5b06c60")
 		(sheetname "Root")
-		(sheetfile "stm32g0x1_lqfp32_breakout.kicad_sch")
+		(sheetfile "stm32g0x1_ufqfpn32_breakout.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.2 1.7)
@@ -2964,7 +2964,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/baef9367-1465-4b7d-9a3e-2aedeef2c489")
 		(sheetname "Root")
-		(sheetfile "stm32g0x1_lqfp32_breakout.kicad_sch")
+		(sheetfile "stm32g0x1_ufqfpn32_breakout.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.107836 -0.36)
@@ -3179,7 +3179,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/5e54e494-878a-4175-82e3-c027b91df9d2")
 		(sheetname "Root")
-		(sheetfile "stm32g0x1_lqfp32_breakout.kicad_sch")
+		(sheetfile "stm32g0x1_ufqfpn32_breakout.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.107836 0.36)
@@ -3396,7 +3396,7 @@
 		(property ki_fp_filters "SolderJumper*Bridged*")
 		(path "/efcda103-d953-4e23-b524-10856cd20f9b")
 		(sheetname "Root")
-		(sheetfile "stm32g0x1_lqfp32_breakout.kicad_sch")
+		(sheetfile "stm32g0x1_ufqfpn32_breakout.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files)
 		(fp_line
@@ -3601,7 +3601,7 @@
 		(property ki_fp_filters "SolderJumper*Bridged*")
 		(path "/0f644ac2-b35e-4bd6-ac4a-085b9c8cc1c0")
 		(sheetname "Root")
-		(sheetfile "stm32g0x1_lqfp32_breakout.kicad_sch")
+		(sheetfile "stm32g0x1_ufqfpn32_breakout.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files)
 		(fp_line
@@ -3805,7 +3805,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/95a802ef-04f8-4afa-9c95-6552a4dee460")
 		(sheetname "Root")
-		(sheetfile "stm32g0x1_lqfp32_breakout.kicad_sch")
+		(sheetfile "stm32g0x1_ufqfpn32_breakout.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.107836 0.36)
