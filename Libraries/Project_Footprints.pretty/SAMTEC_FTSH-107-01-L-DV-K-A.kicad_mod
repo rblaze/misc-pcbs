@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
-	(descr "translated Allegro footprint")
+	(descr "14 pin SMD connector")
 	(property "Reference" "REF**"
 		(at -2.201 -4.681 0)
 		(layer "F.SilkS")
@@ -26,7 +26,7 @@
 			)
 		)
 	)
-	(property "Footprint" ""
+	(property "Footprint" "SAMTEC_FTSH-107-01-L-DV-K-A"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
