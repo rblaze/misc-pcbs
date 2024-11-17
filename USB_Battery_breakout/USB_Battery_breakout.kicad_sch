@@ -4038,7 +4038,7 @@
 		(uuid "06db9f85-9942-4f0d-8c54-346a3ba64757")
 	)
 	(label "VBAT"
-		(at 63.5 157.48 0)
+		(at 63.5 152.4 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4049,7 +4049,7 @@
 		(uuid "08264dfb-213b-40fe-ae74-e0530aa4de4c")
 	)
 	(label "3V3"
-		(at 104.14 144.78 0)
+		(at 63.5 154.94 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4060,7 +4060,7 @@
 		(uuid "0f975e5f-b676-4d67-9c94-55cf182b2d39")
 	)
 	(label "VBUS"
-		(at 63.5 152.4 0)
+		(at 104.14 144.78 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4081,7 +4081,7 @@
 		)
 		(uuid "298ccc11-3e9c-4046-84c2-c7c370cf3b41")
 	)
-	(label "D_MINUS"
+	(label "D-"
 		(at 59.69 92.71 0)
 		(fields_autoplaced yes)
 		(effects
@@ -4092,8 +4092,8 @@
 		)
 		(uuid "3606de10-600e-4fcd-b064-be31e61c8bd5")
 	)
-	(label "D_PLUS"
-		(at 63.5 149.86 0)
+	(label "D+"
+		(at 63.5 144.78 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4103,7 +4103,7 @@
 		)
 		(uuid "569c082c-4607-424c-8e46-41546e15dc01")
 	)
-	(label "D_MINUS"
+	(label "D-"
 		(at 63.5 147.32 0)
 		(fields_autoplaced yes)
 		(effects
@@ -4126,7 +4126,7 @@
 		(uuid "831d99b2-01e1-48fe-b274-8a0f279a2ee5")
 	)
 	(label "SDA"
-		(at 130.81 101.6 0)
+		(at 130.81 104.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4148,7 +4148,7 @@
 		(uuid "9b9ded31-d193-4fa1-84c8-e1b9bf3aab20")
 	)
 	(label "SCL"
-		(at 130.81 104.14 0)
+		(at 130.81 101.6 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4181,7 +4181,7 @@
 		(uuid "ac432450-a300-4c26-970d-8270fe287ea7")
 	)
 	(label "SDA"
-		(at 104.14 147.32 0)
+		(at 104.14 149.86 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4203,7 +4203,7 @@
 		(uuid "b71aa557-d786-44a3-8d43-c3a33b9ccb67")
 	)
 	(label "PSEL"
-		(at 63.5 154.94 0)
+		(at 63.5 149.86 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4235,7 +4235,7 @@
 		)
 		(uuid "d55aeaf5-e4f9-4d04-93df-e27fc0e3b5e0")
 	)
-	(label "D_PLUS"
+	(label "D+"
 		(at 59.69 100.33 0)
 		(fields_autoplaced yes)
 		(effects
@@ -4247,7 +4247,7 @@
 		(uuid "dbd8e656-9e99-4e25-aa50-23cf472807e8")
 	)
 	(label "SCL"
-		(at 104.14 149.86 0)
+		(at 104.14 147.32 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4318,7 +4318,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 164.7952 135.89 0)
 			(effects
 				(font
@@ -4345,7 +4345,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB" "C19666"
+		(property "JLCPCB" "C23733"
 			(at 163.83 132.08 0)
 			(effects
 				(font
@@ -4371,7 +4371,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 62.23 144.78 270)
+		(at 62.23 157.48 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4380,7 +4380,7 @@
 		(fields_autoplaced yes)
 		(uuid "0ab5ba37-8336-4f2d-a198-8cacef3692c1")
 		(property "Reference" "#PWR019"
-			(at 55.88 144.78 0)
+			(at 55.88 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4389,7 +4389,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 58.42 144.7799 90)
+			(at 58.42 157.4799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4398,7 +4398,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 62.23 144.78 0)
+			(at 62.23 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4407,7 +4407,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 62.23 144.78 0)
+			(at 62.23 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4416,7 +4416,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 62.23 144.78 0)
+			(at 62.23 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4583,7 +4583,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 157.48 63.5 0)
+		(at 157.48 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4592,7 +4592,7 @@
 		(fields_autoplaced yes)
 		(uuid "14eaef06-8b29-43d6-829b-9db91b78e249")
 		(property "Reference" "R2"
-			(at 160.02 62.2299 0)
+			(at 160.02 50.7999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4601,7 +4601,7 @@
 			)
 		)
 		(property "Value" "220"
-			(at 160.02 64.7699 0)
+			(at 160.02 53.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4610,7 +4610,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 155.702 63.5 90)
+			(at 155.702 52.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4619,7 +4619,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 157.48 63.5 0)
+			(at 157.48 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4628,7 +4628,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 157.48 63.5 0)
+			(at 157.48 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4637,7 +4637,7 @@
 			)
 		)
 		(property "JLCPCB" "C25091"
-			(at 157.48 63.5 0)
+			(at 157.48 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4756,7 +4756,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1uH"
 			(at 195.58 85.0899 0)
 			(effects
 				(font
@@ -5786,7 +5786,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 167.64 52.07 90)
+		(at 167.64 63.5 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5795,7 +5795,7 @@
 		(fields_autoplaced yes)
 		(uuid "53d18f37-a4ff-4dee-ba49-da104be24191")
 		(property "Reference" "D3"
-			(at 171.45 52.3874 90)
+			(at 171.45 63.8174 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5804,7 +5804,7 @@
 			)
 		)
 		(property "Value" "Red"
-			(at 171.45 54.9274 90)
+			(at 171.45 66.3574 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5813,7 +5813,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 167.64 52.07 0)
+			(at 167.64 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5822,7 +5822,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 167.64 52.07 0)
+			(at 167.64 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5831,7 +5831,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 167.64 52.07 0)
+			(at 167.64 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5840,7 +5840,7 @@
 			)
 		)
 		(property "JLCPCB" "C2286"
-			(at 167.64 52.07 90)
+			(at 167.64 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6301,7 +6301,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 157.48 52.07 90)
+		(at 157.48 63.5 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6310,7 +6310,7 @@
 		(fields_autoplaced yes)
 		(uuid "790c7145-1b80-4eb8-82bb-5571dba4d16f")
 		(property "Reference" "D2"
-			(at 161.29 52.3874 90)
+			(at 161.29 63.8174 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6319,7 +6319,7 @@
 			)
 		)
 		(property "Value" "Green"
-			(at 161.29 54.9274 90)
+			(at 161.29 66.3574 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6328,7 +6328,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 157.48 52.07 0)
+			(at 157.48 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6337,7 +6337,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 157.48 52.07 0)
+			(at 157.48 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6346,7 +6346,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 157.48 52.07 0)
+			(at 157.48 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6355,7 +6355,7 @@
 			)
 		)
 		(property "JLCPCB" "C72043"
-			(at 157.48 52.07 90)
+			(at 157.48 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6446,7 +6446,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 167.64 63.5 0)
+		(at 167.64 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6455,7 +6455,7 @@
 		(fields_autoplaced yes)
 		(uuid "8509f618-552e-4031-9563-e45e1831d4e0")
 		(property "Reference" "R3"
-			(at 170.18 62.2299 0)
+			(at 170.18 50.7999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6464,7 +6464,7 @@
 			)
 		)
 		(property "Value" "470"
-			(at 170.18 64.7699 0)
+			(at 170.18 53.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6473,7 +6473,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 165.862 63.5 90)
+			(at 165.862 52.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6482,7 +6482,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 167.64 63.5 0)
+			(at 167.64 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6491,7 +6491,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 167.64 63.5 0)
+			(at 167.64 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6500,7 +6500,7 @@
 			)
 		)
 		(property "JLCPCB" "C25117"
-			(at 167.64 63.5 0)
+			(at 167.64 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6865,7 +6865,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 185.1152 87.63 0)
 			(effects
 				(font
@@ -6892,7 +6892,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB" "C1622"
+		(property "JLCPCB" ""
 			(at 184.15 83.82 0)
 			(effects
 				(font
