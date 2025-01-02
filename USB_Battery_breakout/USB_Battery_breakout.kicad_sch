@@ -4600,7 +4600,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220"
+		(property "Value" "470"
 			(at 160.02 53.3399 0)
 			(effects
 				(font
@@ -4636,7 +4636,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB" "C25091"
+		(property "JLCPCB" "C25117"
 			(at 157.48 52.07 0)
 			(effects
 				(font
@@ -4784,6 +4784,15 @@
 			)
 		)
 		(property "Description" "Inductor"
+			(at 194.31 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB" "C161082"
 			(at 194.31 83.82 0)
 			(effects
 				(font
@@ -5355,6 +5364,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB" "C3025063"
+			(at 41.91 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "B12"
 			(uuid "eaa5497a-b5fc-43dd-9f8c-da73fd8e5a1f")
 		)
@@ -5803,7 +5821,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Red"
+		(property "Value" "Green"
 			(at 171.45 66.3574 90)
 			(effects
 				(font
@@ -5839,7 +5857,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB" "C2286"
+		(property "JLCPCB" "C72043"
 			(at 167.64 63.5 90)
 			(effects
 				(font
@@ -6318,7 +6336,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Green"
+		(property "Value" "Red"
 			(at 161.29 66.3574 90)
 			(effects
 				(font
@@ -6354,7 +6372,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB" "C72043"
+		(property "JLCPCB" "C2286"
 			(at 157.48 63.5 90)
 			(effects
 				(font
@@ -6463,7 +6481,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "220"
 			(at 170.18 53.3399 0)
 			(effects
 				(font
@@ -6499,7 +6517,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB" "C25117"
+		(property "JLCPCB" "C25091"
 			(at 167.64 52.07 0)
 			(effects
 				(font
@@ -6892,7 +6910,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB" ""
+		(property "JLCPCB" "C5142571"
 			(at 184.15 83.82 0)
 			(effects
 				(font
