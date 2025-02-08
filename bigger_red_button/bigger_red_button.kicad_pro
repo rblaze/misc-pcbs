@@ -73,6 +73,7 @@
         "footprint_type_mismatch": "ignore",
         "hole_clearance": "error",
         "hole_near_hole": "error",
+        "holes_co_located": "warning",
         "invalid_outline": "error",
         "isolated_copper": "warning",
         "item_on_disabled_layer": "error",
@@ -124,7 +125,7 @@
         "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -430,7 +431,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "TE_joystick_breakout.kicad_pro",
+    "filename": "bigger_red_button.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -466,7 +467,7 @@
       "idf": "",
       "netlist": "",
       "plot": "plots/",
-      "pos_files": "",
+      "pos_files": "plots/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
@@ -526,53 +527,11 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": true
-        },
-        {
-          "group_by": false,
-          "label": "#",
-          "name": "${ITEM_NUMBER}",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Height",
-          "name": "Height",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Manufacturer_Name",
-          "name": "Manufacturer_Name",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Manufacturer_Part_Number",
-          "name": "Manufacturer_Part_Number",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Newark Part Number",
-          "name": "Newark Part Number",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Newark Price/Stock",
-          "name": "Newark Price/Stock",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Description",
-          "name": "Description",
-          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
-      "name": "",
+      "name": "Grouped By Value",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -617,7 +576,7 @@
   },
   "sheets": [
     [
-      "faecdd6e-0a95-4981-aa3c-87e0517890fa",
+      "feb3b749-4f34-4ca1-ab65-70106c7bdece",
       "Root"
     ]
   ],
