@@ -2612,7 +2612,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "6.5V 1.5A Constant Current Buck LED Driver IC, TSOT-23-5"
+		(property "Description" "6.5V 1A Constant Current Buck LED Driver IC, TSOT-23-5"
 			(at 0 0 0)
 			(effects
 				(font
