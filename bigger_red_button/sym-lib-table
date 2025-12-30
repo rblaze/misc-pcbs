@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "Project_Components")(type "KiCad")(uri "${KIPRJMOD}/../Libraries/Project_Components.kicad_sym")(options "")(descr ""))
-)
